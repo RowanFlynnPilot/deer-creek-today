@@ -1,6 +1,6 @@
 # Today at Deer Creek (prototype)
 
-A working prototype of a "Today" page for Deer Creek Golf Club in Crossville, Tennessee, built by [Wausau Pilot & Review](https://wausaupilotandreview.com/). **It is not the club's website.** To book a round, use the club's [booking page](https://foreupsoftware.com/index.php/booking/22536/11099) or call (931) 710-0371.
+A working prototype of a "Today" page for Deer Creek Golf Club in Crossville, Tennessee, built by Rowan Flynn. **It is not the club's website.** To book a round, use the club's [booking page](https://foreupsoftware.com/index.php/booking/22536/11099) or call (931) 710-0371.
 
 **Live:** https://rowanflynnpilot.github.io/deer-creek-today/
 
